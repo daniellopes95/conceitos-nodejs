@@ -20,4 +20,8 @@ Iniciamos a aplicação importanto a dependência `express` para uma variável, 
 
 - #### GET (Consultar)
 
-A função GET é responsável por consultar os repositórios armazenados do array `repositories`, retornar todos os seus registros.
+A função GET é responsável por consultar os repositórios armazenados do array `repositories`, e retornar todos os seus registros em JSON.
+
+- #### POST (Inserir)
+
+A função POST é responsável por inserir um repositório no array `repositories`, 
